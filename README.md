@@ -1,4 +1,4 @@
-# Fetch-Rewards-Backend-Take-Home
+# Fetch Rewards Backend Engineering Take Home Test
 
 Hello, this is my submission for the Fetch Rewards Backend Engineering Take Home Test.
 
